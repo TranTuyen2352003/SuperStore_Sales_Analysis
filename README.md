@@ -115,7 +115,7 @@ Determines regions and states with the highest revenue and profit, analyzes perf
 
 ### 🧠 Conclusion
 
-SQL comprehensively leverages Superstore Sales data, providing actionable insights to optimize revenue, reduce losses, and enhance customer, product, and logistics strategies.
+- SQL comprehensively leverages Superstore Sales data, providing actionable insights to optimize revenue, reduce losses, and enhance customer, product, and logistics strategies.
 ---
 
 ## 📊 Power BI Dashboard
