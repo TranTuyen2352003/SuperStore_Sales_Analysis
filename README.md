@@ -137,7 +137,7 @@ Determines regions and states with the highest revenue and profit, analyzes perf
 
 ### 1️⃣ Sales Dashboard
 
-
+![background](./images/excel_dashboard.png)
 
 **Key Features:**
 - Interactive dashboard using Pivot Tables, Pivot Charts, and Slicers.
