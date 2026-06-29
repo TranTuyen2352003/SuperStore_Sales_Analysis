@@ -133,6 +133,27 @@ Determines regions and states with the highest revenue and profit, analyzes perf
 ![background](./images/product.png)
 
 ---
+## 📈 Excel Dashboard
+
+### 1️⃣ Sales Dashboard
+
+
+
+**Key Features:**
+- Interactive dashboard using Pivot Tables, Pivot Charts, and Slicers.
+- KPI cards for Total Orders, Quantity, Sales, Profit, and Average Delivery Days.
+- Sales & Orders trend analysis by month.
+- Sales breakdown by Category, Segment, Region, Market, and Ship Mode.
+- Top-performing Products and Customers analysis.
+- Profit Margin tracking and sales performance monitoring.
+
+**Tools Used:**
+- Microsoft Excel
+- Pivot Table
+- Pivot Chart
+- Slicer
+- Conditional Formatting
+- Custom Number Formatting
 
 ## ✅ Key Takeaways
 The super store dataset, covering a period of `48` month, records a total of `51,290` unique orders.
